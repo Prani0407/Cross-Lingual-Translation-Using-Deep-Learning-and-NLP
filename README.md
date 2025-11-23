@@ -1,0 +1,3 @@
+# Cross-Lingual Translation Using Deep Learning, NLP, and IndicTrans2
+
+This repository contains a complete cross-lingual machine translation system built using multiple deep learning architectures...
