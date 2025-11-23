@@ -6,9 +6,9 @@ The goal is to implement an end-to-end translation pipeline capable of translati
 
 
 
-🚀 Models Used
+🚀 **Models Used**
 
-1️⃣ IndicTrans2 (Primary Model)
+1️⃣ **IndicTrans2 (Primary Model)**
 
 1.Transformer-based multilingual NMT model
 
@@ -20,7 +20,7 @@ The goal is to implement an end-to-end translation pipeline capable of translati
 
 
 
-2️⃣ Transformer Model
+2️⃣ **Transformer Model**
 
 1.Standard encoder–decoder architecture
 
@@ -28,7 +28,7 @@ The goal is to implement an end-to-end translation pipeline capable of translati
 
 
 
-3️⃣ Seq2Seq with Attention
+3️⃣ **Seq2Seq with Attention**
 
 1.Classic NMT architecture
 
@@ -36,7 +36,7 @@ The goal is to implement an end-to-end translation pipeline capable of translati
 
 
 
-🌟 Key Features
+🌟 **Key Features**
 
 1.Complete multilingual translation pipeline
 
@@ -53,7 +53,7 @@ The goal is to implement an end-to-end translation pipeline capable of translati
 7.Model comparison with visualized performance metrics
 
 
-🎯 Objectives
+🎯 **Objectives**
 
 1.Build a robust multilingual machine translation system
 
@@ -65,7 +65,7 @@ The goal is to implement an end-to-end translation pipeline capable of translati
 
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
 1.IndicTrans2 (Facebook AI Research)
 
