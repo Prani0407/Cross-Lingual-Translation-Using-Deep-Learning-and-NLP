@@ -5,6 +5,7 @@ This repository contains a complete cross-lingual machine translation system bui
 The goal is to implement an end-to-end translation pipeline capable of translating text across different languages using state-of-the-art NLP and deep learning techniques.
 
 
+
 🚀 Models Used
 
 1️⃣ IndicTrans2 (Primary Model)
